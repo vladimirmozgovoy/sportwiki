@@ -1,0 +1,666 @@
+/* 10.07.20 */
+
+/*==========  Desktop First Method  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1199px) {
+  /* picture {
+    display: none
+  } */
+
+  .col-md-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-5 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-7 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-8 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-9 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-10 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-11 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-md-12 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-5 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-7 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-8 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-9 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-10 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-11 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-lg-12 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-5 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-7 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-8 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-9 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-10 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-11 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .col-xl-12 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .post-page .col-lg-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .post-page .col-md-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .contact-page {
+    min-height: auto;
+  }
+
+  .questions-page {
+    min-height: auto;
+  }
+
+  .music-page {
+    min-height: auto;
+  }
+
+  .program-page {
+    min-height: auto;
+  }
+
+  .single-page {
+    min-height: auto;
+  }
+
+  .feed-list {
+    min-height: auto;
+  }
+
+  .single-exercise {
+    min-height: auto;
+  }
+
+  .exercise-page {
+    min-height: auto;
+  }
+
+  .slider-block .news-block {
+    width: 100%;
+  }
+
+  .slider-block .news-block .block .img {
+    margin-right: 5px;
+  }
+
+  .slider-block .news-block .block .text {
+    width: 189px;
+    height: 76px;
+  }
+
+  .news-block .block .img img {
+    height: 100%;
+  }
+
+  .schema img {
+    position: relative;
+    z-index: 10;
+  }
+
+  .slider-block .main-slider {
+    height: 365px;
+  }
+
+  .slider-block .main-slider img {
+    height: 365px;
+  }
+
+  .main-title-hide {
+    display: none;
+  }
+
+  .main-title h3 {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .schema img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .post-list {
+    min-height: auto;
+  }
+
+  /*.filter-cat ul li:first-child {
+    margin-left: 0; }*/
+  .filter-cat ul li {
+    margin-left: 17px;
+    margin-bottom: 3px;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .baner1 {
+    display: none;
+  }
+
+  .baner2 {
+    display: none;
+  }
+
+  .sidebar .news-block {
+    margin: 25px auto 0 auto;
+    width: 100%;
+  }
+
+  .sidebar .baner1 {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .sidebar .baner2 {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .sidebar .main-title-center h3 {
+    left: 0;
+  }
+
+  .contact-page form {
+    max-width: 100%;
+  }
+
+  .contact-page form .fields-wrap .field {
+    width: 49.27%;
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 991px) {
+  header nav {
+    display: none;
+    float: none;
+  }
+
+  header nav ul li {
+    display: block;
+    text-align: right;
+    margin-left: 0;
+  }
+
+  header nav ul li a {
+    padding: 0 0 0;
+    border: none;
+  }
+
+  header nav ul li a.active {
+    border: none;
+  }
+
+  header .mobile-menu a {
+    text-transform: uppercase;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 900;
+  }
+
+  header .search {
+    display: none;
+    max-width: 100%;
+  }
+
+  header .logo {
+    position: relative;
+  }
+
+  header .logo a:nth-child(2) {
+    width: 55%;
+  }
+
+  header .logo a {
+    width: 70%;
+  }
+
+  header .logo .burger {
+    display: block;
+    position: absolute;
+    width: 22px;
+    height: 100%;
+    right: 0;
+    top: 0;
+    background: url(../img/icon_burger.svg) no-repeat center center;
+  }
+
+  header .logo .search-icon {
+    display: block;
+    position: absolute;
+    width: 22px;
+    height: 100%;
+    right: 40px;
+    top: 0;
+    background: url(../img/icon_search_mobile.svg) no-repeat center center;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .slider-block {
+    margin: 0;
+  }
+
+  .post-list .post-block .text {
+    width: 400px;
+  }
+
+  .program-block {
+    height: 150px;
+  }
+
+  .program-block a {
+    font-size: 11px;
+  }
+
+  .post-page .program-block-big {
+    height: 300px;
+  }
+
+  .contact-page form .fields-wrap .field {
+    width: 100%;
+    float: none;
+    margin-left: 0;
+  }
+
+  .contact-page form input[type="submit"] {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .filter-list {
+    display: none;
+    max-width: 169px;
+  }
+
+  .filter-cat {
+    margin-bottom: 0;
+  }
+
+  .filter-cat .filter-title {
+    float: none;
+  }
+
+  .filter-cat ul {
+    float: none;
+    display: none;
+  }
+
+  .filter-cat ul li {
+    display: block;
+    margin-left: 0;
+    margin-bottom: 15px;
+  }
+
+  .feed-list {
+    margin-top: 25px;
+  }
+
+  .single-exercise .info {
+    margin-top: 15px;
+  }
+
+  .single-exercise .info-text {
+    margin-top: 0;
+  }
+
+  .single-exercise .info-text img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .single-exercise .exercise-img img {
+    display: block;
+    margin: 0 auto 15px 0;
+  }
+
+  .post-list .post-block .text p {
+    font-size: 18px;
+  }
+
+  .post-text p {
+    font-size: 18px;
+  }
+
+  #to-top {
+    right: -10px;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+  .news-block-title {
+    display: block;
+    margin: 0;
+    width: 100%;
+  }
+
+  .slider-block .main-slider .text a {
+    font-size: 14px;
+    top: -31px;
+  }
+
+  .text-bg {
+    padding: 23px 50px;
+    bottom: 0;
+  }
+
+  .main-slider {
+    margin-bottom: 25px;
+  }
+
+  .slider-block .main-slider .text {
+    bottom: 0;
+  }
+
+  .slider-block .main-slider .owl-prev {
+    bottom: 17px;
+    height: 43.6px;
+  }
+
+  .slider-block .main-slider .owl-next {
+    bottom: 17px;
+    height: 43.6px;
+  }
+
+  .slider-block .main-slider {
+    height: 265px;
+  }
+
+  .slider-block .main-slider img {
+    height: 265px;
+  }
+
+  .schema {
+    display: none;
+  }
+
+  .shema-list {
+    display: block;
+  }
+
+  footer {
+    padding: 10px 0;
+  }
+
+  footer .phone a {
+    margin: 0 auto;
+  }
+
+  footer .email a {
+    margin: 0 auto;
+    float: none;
+  }
+
+  .post-list .post-block {
+    height: auto;
+  }
+
+  .post-list .post-block .img {
+    float: none;
+    width: 100%;
+  }
+
+  .post-list .post-block .text {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+  }
+
+  .post-list .post-block .text .block-abs-new {
+    position: relative;
+    left: 0;
+    top: 0;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .filter-cat {
+    margin-bottom: 0;
+  }
+
+  .post-list .post-block .text a {
+    font-size: 18px;
+  }
+
+  .news-block .block .text a {
+    font-size: 14px;
+  }
+
+  .news-block .block .text p {
+    font-size: 13px;
+  }
+
+  .news-block .block .img {
+    margin-right: 5px;
+    height: auto;
+  }
+
+  .news-block .block .text {
+    width: 255px;
+  }
+
+  .slider-block .news-block .block .text {
+    width: 179px;
+  }
+
+  .more-post {
+    width: 280px;
+    line-height: 60px;
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+
+  .post-page .program-block-big {
+    height: 150px;
+  }
+
+  /* .post-page .program-block-big span {
+    display: none; } */
+  .program-page .exercise-list .exercise-block .images {
+    margin: 30px auto 0 auto;
+  }
+
+  .single-page .pn-post a.prev {
+    margin: 0 auto;
+  }
+
+  .single-page .pn-post a.next {
+    float: none;
+    margin: 0 auto;
+  }
+
+  .feed-list .feed-block .images {
+    float: none;
+    margin: 0 auto 25px auto;
+  }
+
+  .feed-list .feed-block .text {
+    float: none;
+  }
+
+  .error-page {
+    padding: 50px 0;
+  }
+
+  .post-content p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .main-title-center h3 {
+    left: 0;
+  }
+
+  .post-text img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .post-text table tr td {
+    font-size: 12px;
+    padding: 10px 5px;
+    line-height: 15px;
+  }
+
+  .post-text table p {
+    font-size: 12px;
+    line-height: 15px;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 351px) {
+  .sidebar {
+    overflow: hidden;
+  }
+
+  .baner1 {
+    min-width: 320px;
+    position: relative;
+    left: -20px;
+  }
+
+  .baner2 {
+    min-width: 320px;
+    position: relative;
+    left: -20px;
+  }
+}
+
+/* Custom, iPhone Retina */
+/*==========  Mobile First Method  ==========*/
+/* Custom, iPhone Retina */
+/* Extra Small Devices, Phones */
+/* Small Devices, Tablets */
+/* Medium Devices, Desktops */
+/* Large Devices, Wide Screens */
